@@ -12,7 +12,7 @@ It is also a great printer / filament torture test as it tests every aspect of t
 
 Since I don't like other desiccants for their strict tolerances **(after printing)** and the outcome of it's smaller pellet compatibility with poorer drying performance, I decided to make it myself. Heavily relied on thin extrude feature that introduced four years ago, and simple locking mechanism.
 
-[Snapping sounds demo (Instagram)](https://www.instagram.com/reel/DVqocWHkwL2/)
+[Snappy sounds demo (Instagram)](https://www.instagram.com/reel/DVqocWHkwL2/)
 
 ## Recommended materials
 * ABS
@@ -40,12 +40,13 @@ Any other materials, such as SLA photoplastics are also welcome, so we can tortu
 
 ## Assembly
 
-<img src="https://raw.githubusercontent.com/Bunny350/HD-desiccant/main/Media/Images/IMG_3958.jpg" height="250px" />
+<img src="https://raw.githubusercontent.com/Bunny350/HD-desiccant/main/Media/Images/IMG_3953.GIF" height="250px" />
 
 * Carefully fill the desiccant holder (desiccant_bottom_casing) using the desiccant of your choice.
 
 <img src="https://raw.githubusercontent.com/Bunny350/HD-desiccant/main/Media/Assembly%20images/hd_desiccant_covering.png" height="250px" />
 <img src="https://raw.githubusercontent.com/Bunny350/HD-desiccant/main/Media/Assembly%20images/hd_desiccant_locking.png" height="250px" />
+
 *Note: these images are from the early prototype.*
 
 * Close the desiccant holder with the lid (desiccant_top_lid). Turn the lid clockwise to lock it. It may make a click.
@@ -55,6 +56,7 @@ If HD desiccant did not dry properly, or for whatever reason, you can easily dis
 
 <img src="https://raw.githubusercontent.com/Bunny350/HD-desiccant/main/Media/Assembly%20images/hd_desiccant_locking.png" height="250px" />
 <img src="https://raw.githubusercontent.com/Bunny350/HD-desiccant/main/Media/Assembly%20images/hd_desiccant_covering.png" height="250px" />
+
 *Note: these images are from the early prototype.*
 
 * Turn the lid counter-clockwise, and then the lid will extend on its own. You can carefully pull the lid if it can't be extended on its own.
@@ -64,4 +66,6 @@ If HD desiccant did not dry properly, or for whatever reason, you can easily dis
 Desiccant in HD desiccant holder can be rejuvenated / dried within minimum setting of medium heat (around 60˚C) and 6 hours.
 
 ## Intense R&D
+<img src="https://raw.githubusercontent.com/Bunny350/HD-desiccant/main/Media/Images/IMG_3958.jpg" height="250px" />
+
 Before this model is being published to MakerWorld, I've managed to destroy multiples of these model just via hand and dropping. Apparently the design with sharp vertical corners are not suitable for typical FDM / FFF printing. 
